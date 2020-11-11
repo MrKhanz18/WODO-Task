@@ -1,0 +1,16 @@
+body
+{
+    background-color: orangered;
+}
+
+.or
+{
+    color: orangered;
+}
+
+.br
+{
+    border: 1px black solid;
+    margin-top: 5px;
+    padding: 10px;
+}
